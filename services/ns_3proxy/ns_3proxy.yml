@@ -8,7 +8,7 @@ description: Test service for benchmarking experiments
 network_functions:
   - vnf_id: vnf0
     vnf_vendor: de.upb
-    vnf_name: proxy_3proxy
+    vnf_name: px-3proxy
     vnf_version: '0.1'
 connection_points:
   - id: "ns:mgmt"
